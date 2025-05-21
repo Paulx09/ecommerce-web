@@ -1,4 +1,4 @@
-namespace ECommerceAPI.Models.DTO.Response
+namespace backend.Models.DTO.Response
 {
     public class ProveedorResponse
     {
